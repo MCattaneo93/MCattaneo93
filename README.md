@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Matthew
-- 👀 I’m interested in becoming a better programmer.  Going to undetake the 100 day coding challenge and we'll see where we're at in 100 days. 
 - 🌱 I’m currently looking at projects on freeCodeCamp, and trying to increase my knowledge in Python, Java and C#.
 - 📫 How to reach me: mcattaneo93@gmail.com
 
